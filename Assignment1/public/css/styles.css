@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 40px;
+    text-align: center;
+}
+
+
+#gitID {
+    text-align: center;
+    display: inline-block;
+    border: none;
+    cursor: pointer;
+    padding: 20px 34px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: maroon;
+    margin: 20px 2px;
+    color: silver;
+}
+
+#main {
+    max-width: 450px;
+    margin: 1rem auto;
+    padding: 15px 10px;
+    border: 5px solid black;
+}
+
+#imgID {
+
+    border: 5px solid black;
+}
+
+
